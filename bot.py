@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # Create an instance of our Bot class.
     # This will start the connection to Twitch and start listening for events.
     print('Loading Bert Model...')
-    model = tf.keras.models.load_model("C:/Users/apurv/Downloads/wandb/mpl_hate_speech_bert")
+    model = tf.keras.models.load_model("../mpl_hate_speech_bert")
     print('Model Loaded!')
     
     bot = Bot()
