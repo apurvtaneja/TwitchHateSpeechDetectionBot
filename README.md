@@ -10,7 +10,7 @@ Some Screenshots:
 <img src="https://user-images.githubusercontent.com/43596461/206324835-2bb62083-d5c1-456a-9481-6e60cd778169.png" width="1024">
 <br>
 <br>
-As you can see you can the model is not perfect, we trick the model into thinking that we are saying something a neutral message. But it blocks out the extreme examples.
+As you can see you can the model is not perfect, we can trick the model into thinking that we are saying something neutral. But it does blocks out the extreme examples.
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/43596461/206328934-9667b549-4d2a-4a28-af9d-457f6d46ac12.png" width="1024">
