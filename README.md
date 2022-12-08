@@ -1,4 +1,4 @@
-# TwitchHateSpeechDetectionBot
+# Twitch Hate Speech Detection Bot
 It is a twitch Bot used for blocking hateful chatters.
 This bot intercepts the message from a twitch channel and apply the inference on that message to determine 3 things, whether the message is a 'hate_speech' or 'offensive_language' or is 'neither'.
 The NLP model was made using BERT and trained on the large dataset of offensive language dataset found on kaggle. The dataset was originally of twiter hate speech data. But the same datatset can be utilised for this purpose. As twitch also has a '@username' feature.
